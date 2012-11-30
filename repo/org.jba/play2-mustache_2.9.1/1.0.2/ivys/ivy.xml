@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:e="http://ant.apache.org/ivy/extra">
-	<info organisation="org.jba" module="play2-mustache_2.9.1" revision="1.0.2" status="release" publication="20121128180936">
+	<info organisation="org.jba" module="play2-mustache_2.9.1" revision="1.0.2" status="release" publication="20121130110311">
 		<description>
 		play2-mustache
 		</description>
